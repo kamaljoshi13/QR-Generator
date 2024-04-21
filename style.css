@@ -5,7 +5,6 @@
 }
 body {
   background-color: #262a2f;
-  
 }
 
 .container {
@@ -15,10 +14,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
   background: #fff;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -63,3 +58,7 @@ button {
   font-weight: 500;
 }
 
+.qrImg {
+  margin: auto;
+  display: block;
+}
